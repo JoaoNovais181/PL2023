@@ -65,12 +65,12 @@ def doentesPorNivelColesterol(dados):
     limMax = (max(dados, key=lambda doente: doente['colesterol'])['colesterol'] - minColesterol) // 10 + 1
     limMin = 0
     while limMin < limMax:
-        distribuicao[limMin] = [0,0] # [saudaveis, doentes]
+        distribuicao[f"[{limMin}-{limMin+9}]"] = [0,0] # [saudaveis, doentes]
         limMin += 1
 
     for entrada in dados:
         nivelColesterol = (entrada['colesterol'] - minColesterol) //10
-        distribuicao[nivelColesterol][entrada['temDoença']] += 1
+        distribuicao[f"[{nivelColesterol}-{nivelColesterol+9}]"][entrada['temDoença']] += 1
 
     return distribuicao
 
@@ -118,16 +118,42 @@ def graficoBarras(distribuicao, titulo):
     plt.xticks(list(map(lambda x : x+0.2, x)), list(distribuicao.keys()), rotation="vertical")
     plt.subplots_adjust(bottom=0.15)
     plt.title(titulo + "\nVermelho=Saudável e Azul=Doente")
-    #  plt.table(colLabels=["Saudável","Doente"], colColours=["#FFAAAA","#AAAAFF"], cellText=[])
     plt.show()
 
-informacao = lerInfo("myheart.csv")
-distrPorSexo = doentesPorSexo(informacao)
-distrPorFaixaEtaria = doentesPorFaixaEtaria(informacao)
-distrPorNivelColesterol = doentesPorNivelColesterol(informacao)
-imprimeDistribuicao(distrPorSexo, ["Sexo","Saudáveis","Doentes"])
-imprimeDistribuicao(distrPorFaixaEtaria, ["Faixa Etária", "Saudáveis", "Doentes"])
-imprimeDistribuicao(distrPorNivelColesterol, ["Nível Colesterol", "Saudáveis", "Doentes"])
-graficoBarras(distrPorFaixaEtaria, "Distribuição por Faixa Etária")
-graficoBarras(distrPorSexo, "Distribuição por Sexo")
-graficoBarras(distrPorNivelColesterol, "Distribuição por nível de colesterol")
+def main():
+    informacao = lerInfo("myheart.csv")
+    distrPorSexo = doentesPorSexo(informacao)
+    distrPorFaixaEtaria = doentesPorFaixaEtaria(informacao)
+    distrPorNivelColesterol = doentesPorNivelColesterol(informacao)
+
+    opcoes = ["Distribuição por Género", "Distribuição por Faixa Etária", "Distribuição por Nível de Colesterol", "Sair"]
+    running = True
+
+    while running:
+        print("{:^40}".format("Menu")) 
+        for i,opcao in enumerate(opcoes):
+            print(f"{i} {LVT} {opcao}")
+
+        try:
+            opcao = int(input("Introduza uma opção: "))
+        except:
+            print("Input Inválido")
+            continue
+        if (opcao not in [0,1,2,3]):
+            print("Input Inválido")
+            continue
+        
+        if opcao == 0:
+            imprimeDistribuicao(distrPorSexo, ["Género","Saudáveis","Doentes"])
+            graficoBarras(distrPorSexo, opcoes[opcao])
+        elif opcao == 1:
+            imprimeDistribuicao(distrPorFaixaEtaria, ["Faixa Etária", "Saudáveis", "Doentes"])
+            graficoBarras(distrPorFaixaEtaria, opcoes[opcao])
+        elif opcao == 2:
+            imprimeDistribuicao(distrPorNivelColesterol, ["Nível Colesterol", "Saudáveis", "Doentes"])
+            graficoBarras(distrPorNivelColesterol, opcoes[opcao])
+        elif opcao == 3:
+            running = False
+
+if __name__ == "__main__":
+    main()
