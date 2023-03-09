@@ -1,0 +1,358 @@
+	Ano: 1616 --{nº de processos}--> 1
+	Ano: 1620 --{nº de processos}--> 1
+	Ano: 1622 --{nº de processos}--> 1
+	Ano: 1623 --{nº de processos}--> 2
+	Ano: 1625 --{nº de processos}--> 1
+	Ano: 1627 --{nº de processos}--> 2
+	Ano: 1628 --{nº de processos}--> 5
+	Ano: 1630 --{nº de processos}--> 2
+	Ano: 1631 --{nº de processos}--> 1
+	Ano: 1632 --{nº de processos}--> 1
+	Ano: 1633 --{nº de processos}--> 1
+	Ano: 1634 --{nº de processos}--> 1
+	Ano: 1635 --{nº de processos}--> 1
+	Ano: 1636 --{nº de processos}--> 1
+	Ano: 1650 --{nº de processos}--> 1
+	Ano: 1655 --{nº de processos}--> 2
+	Ano: 1656 --{nº de processos}--> 1
+	Ano: 1660 --{nº de processos}--> 1
+	Ano: 1661 --{nº de processos}--> 1
+	Ano: 1662 --{nº de processos}--> 1
+	Ano: 1663 --{nº de processos}--> 3
+	Ano: 1664 --{nº de processos}--> 5
+	Ano: 1665 --{nº de processos}--> 2
+	Ano: 1666 --{nº de processos}--> 6
+	Ano: 1667 --{nº de processos}--> 1
+	Ano: 1668 --{nº de processos}--> 5
+	Ano: 1669 --{nº de processos}--> 2
+	Ano: 1670 --{nº de processos}--> 3
+	Ano: 1671 --{nº de processos}--> 13
+	Ano: 1672 --{nº de processos}--> 12
+	Ano: 1673 --{nº de processos}--> 18
+	Ano: 1674 --{nº de processos}--> 1
+	Ano: 1675 --{nº de processos}--> 7
+	Ano: 1676 --{nº de processos}--> 6
+	Ano: 1677 --{nº de processos}--> 4
+	Ano: 1678 --{nº de processos}--> 8
+	Ano: 1679 --{nº de processos}--> 76
+	Ano: 1680 --{nº de processos}--> 148
+	Ano: 1681 --{nº de processos}--> 90
+	Ano: 1682 --{nº de processos}--> 96
+	Ano: 1683 --{nº de processos}--> 128
+	Ano: 1684 --{nº de processos}--> 220
+	Ano: 1685 --{nº de processos}--> 215
+	Ano: 1686 --{nº de processos}--> 175
+	Ano: 1687 --{nº de processos}--> 84
+	Ano: 1688 --{nº de processos}--> 100
+	Ano: 1689 --{nº de processos}--> 596
+	Ano: 1690 --{nº de processos}--> 155
+	Ano: 1691 --{nº de processos}--> 535
+	Ano: 1692 --{nº de processos}--> 149
+	Ano: 1693 --{nº de processos}--> 25
+	Ano: 1694 --{nº de processos}--> 41
+	Ano: 1695 --{nº de processos}--> 35
+	Ano: 1696 --{nº de processos}--> 25
+	Ano: 1697 --{nº de processos}--> 25
+	Ano: 1698 --{nº de processos}--> 150
+	Ano: 1699 --{nº de processos}--> 83
+	Ano: 1700 --{nº de processos}--> 73
+	Ano: 1701 --{nº de processos}--> 102
+	Ano: 1702 --{nº de processos}--> 134
+	Ano: 1703 --{nº de processos}--> 129
+	Ano: 1704 --{nº de processos}--> 164
+	Ano: 1705 --{nº de processos}--> 68
+	Ano: 1706 --{nº de processos}--> 107
+	Ano: 1707 --{nº de processos}--> 101
+	Ano: 1708 --{nº de processos}--> 139
+	Ano: 1709 --{nº de processos}--> 143
+	Ano: 1710 --{nº de processos}--> 188
+	Ano: 1711 --{nº de processos}--> 65
+	Ano: 1712 --{nº de processos}--> 63
+	Ano: 1713 --{nº de processos}--> 259
+	Ano: 1714 --{nº de processos}--> 305
+	Ano: 1715 --{nº de processos}--> 84
+	Ano: 1716 --{nº de processos}--> 234
+	Ano: 1717 --{nº de processos}--> 265
+	Ano: 1718 --{nº de processos}--> 89
+	Ano: 1719 --{nº de processos}--> 378
+	Ano: 1720 --{nº de processos}--> 171
+	Ano: 1721 --{nº de processos}--> 131
+	Ano: 1722 --{nº de processos}--> 453
+	Ano: 1723 --{nº de processos}--> 125
+	Ano: 1724 --{nº de processos}--> 109
+	Ano: 1725 --{nº de processos}--> 271
+	Ano: 1726 --{nº de processos}--> 84
+	Ano: 1727 --{nº de processos}--> 160
+	Ano: 1728 --{nº de processos}--> 437
+	Ano: 1729 --{nº de processos}--> 38
+	Ano: 1730 --{nº de processos}--> 1128
+	Ano: 1731 --{nº de processos}--> 833
+	Ano: 1732 --{nº de processos}--> 2048
+	Ano: 1733 --{nº de processos}--> 1059
+	Ano: 1734 --{nº de processos}--> 786
+	Ano: 1735 --{nº de processos}--> 126
+	Ano: 1736 --{nº de processos}--> 44
+	Ano: 1737 --{nº de processos}--> 51
+	Ano: 1738 --{nº de processos}--> 169
+	Ano: 1739 --{nº de processos}--> 53
+	Ano: 1740 --{nº de processos}--> 10
+	Ano: 1741 --{nº de processos}--> 31
+	Ano: 1742 --{nº de processos}--> 22
+	Ano: 1743 --{nº de processos}--> 53
+	Ano: 1744 --{nº de processos}--> 39
+	Ano: 1745 --{nº de processos}--> 46
+	Ano: 1746 --{nº de processos}--> 48
+	Ano: 1747 --{nº de processos}--> 55
+	Ano: 1748 --{nº de processos}--> 44
+	Ano: 1749 --{nº de processos}--> 25
+	Ano: 1750 --{nº de processos}--> 51
+	Ano: 1751 --{nº de processos}--> 107
+	Ano: 1752 --{nº de processos}--> 80
+	Ano: 1753 --{nº de processos}--> 36
+	Ano: 1754 --{nº de processos}--> 300
+	Ano: 1755 --{nº de processos}--> 295
+	Ano: 1756 --{nº de processos}--> 68
+	Ano: 1757 --{nº de processos}--> 27
+	Ano: 1758 --{nº de processos}--> 20
+	Ano: 1759 --{nº de processos}--> 87
+	Ano: 1760 --{nº de processos}--> 273
+	Ano: 1761 --{nº de processos}--> 371
+	Ano: 1762 --{nº de processos}--> 335
+	Ano: 1763 --{nº de processos}--> 28
+	Ano: 1764 --{nº de processos}--> 22
+	Ano: 1765 --{nº de processos}--> 6
+	Ano: 1766 --{nº de processos}--> 9
+	Ano: 1767 --{nº de processos}--> 14
+	Ano: 1768 --{nº de processos}--> 24
+	Ano: 1769 --{nº de processos}--> 16
+	Ano: 1770 --{nº de processos}--> 25
+	Ano: 1771 --{nº de processos}--> 26
+	Ano: 1772 --{nº de processos}--> 122
+	Ano: 1773 --{nº de processos}--> 477
+	Ano: 1774 --{nº de processos}--> 37
+	Ano: 1775 --{nº de processos}--> 29
+	Ano: 1776 --{nº de processos}--> 35
+	Ano: 1777 --{nº de processos}--> 1110
+	Ano: 1778 --{nº de processos}--> 1030
+	Ano: 1779 --{nº de processos}--> 189
+	Ano: 1780 --{nº de processos}--> 207
+	Ano: 1781 --{nº de processos}--> 201
+	Ano: 1782 --{nº de processos}--> 149
+	Ano: 1783 --{nº de processos}--> 297
+	Ano: 1784 --{nº de processos}--> 338
+	Ano: 1785 --{nº de processos}--> 782
+	Ano: 1786 --{nº de processos}--> 342
+	Ano: 1787 --{nº de processos}--> 708
+	Ano: 1788 --{nº de processos}--> 401
+	Ano: 1789 --{nº de processos}--> 12
+	Ano: 1790 --{nº de processos}--> 1
+	Ano: 1791 --{nº de processos}--> 6
+	Ano: 1792 --{nº de processos}--> 43
+	Ano: 1793 --{nº de processos}--> 45
+	Ano: 1794 --{nº de processos}--> 55
+	Ano: 1795 --{nº de processos}--> 55
+	Ano: 1796 --{nº de processos}--> 86
+	Ano: 1797 --{nº de processos}--> 44
+	Ano: 1798 --{nº de processos}--> 52
+	Ano: 1799 --{nº de processos}--> 103
+	Ano: 1800 --{nº de processos}--> 107
+	Ano: 1801 --{nº de processos}--> 56
+	Ano: 1802 --{nº de processos}--> 88
+	Ano: 1803 --{nº de processos}--> 163
+	Ano: 1804 --{nº de processos}--> 119
+	Ano: 1805 --{nº de processos}--> 109
+	Ano: 1806 --{nº de processos}--> 106
+	Ano: 1807 --{nº de processos}--> 577
+	Ano: 1808 --{nº de processos}--> 297
+	Ano: 1809 --{nº de processos}--> 289
+	Ano: 1810 --{nº de processos}--> 45
+	Ano: 1811 --{nº de processos}--> 231
+	Ano: 1812 --{nº de processos}--> 253
+	Ano: 1813 --{nº de processos}--> 12
+	Ano: 1814 --{nº de processos}--> 11
+	Ano: 1815 --{nº de processos}--> 44
+	Ano: 1816 --{nº de processos}--> 342
+	Ano: 1817 --{nº de processos}--> 200
+	Ano: 1818 --{nº de processos}--> 227
+	Ano: 1819 --{nº de processos}--> 236
+	Ano: 1820 --{nº de processos}--> 243
+	Ano: 1821 --{nº de processos}--> 299
+	Ano: 1822 --{nº de processos}--> 294
+	Ano: 1823 --{nº de processos}--> 207
+	Ano: 1824 --{nº de processos}--> 246
+	Ano: 1825 --{nº de processos}--> 152
+	Ano: 1826 --{nº de processos}--> 166
+	Ano: 1827 --{nº de processos}--> 95
+	Ano: 1828 --{nº de processos}--> 169
+	Ano: 1829 --{nº de processos}--> 160
+	Ano: 1830 --{nº de processos}--> 168
+	Ano: 1831 --{nº de processos}--> 188
+	Ano: 1832 --{nº de processos}--> 289
+	Ano: 1833 --{nº de processos}--> 188
+	Ano: 1834 --{nº de processos}--> 11
+	Ano: 1836 --{nº de processos}--> 3
+	Ano: 1838 --{nº de processos}--> 10
+	Ano: 1839 --{nº de processos}--> 82
+	Ano: 1840 --{nº de processos}--> 34
+	Ano: 1841 --{nº de processos}--> 44
+	Ano: 1842 --{nº de processos}--> 36
+	Ano: 1843 --{nº de processos}--> 285
+	Ano: 1844 --{nº de processos}--> 190
+	Ano: 1845 --{nº de processos}--> 121
+	Ano: 1846 --{nº de processos}--> 85
+	Ano: 1847 --{nº de processos}--> 126
+	Ano: 1848 --{nº de processos}--> 120
+	Ano: 1849 --{nº de processos}--> 115
+	Ano: 1850 --{nº de processos}--> 112
+	Ano: 1851 --{nº de processos}--> 65
+	Ano: 1852 --{nº de processos}--> 73
+	Ano: 1853 --{nº de processos}--> 89
+	Ano: 1854 --{nº de processos}--> 109
+	Ano: 1855 --{nº de processos}--> 82
+	Ano: 1856 --{nº de processos}--> 71
+	Ano: 1857 --{nº de processos}--> 75
+	Ano: 1858 --{nº de processos}--> 46
+	Ano: 1859 --{nº de processos}--> 84
+	Ano: 1860 --{nº de processos}--> 70
+	Ano: 1861 --{nº de processos}--> 58
+	Ano: 1862 --{nº de processos}--> 40
+	Ano: 1863 --{nº de processos}--> 28
+	Ano: 1864 --{nº de processos}--> 53
+	Ano: 1865 --{nº de processos}--> 38
+	Ano: 1866 --{nº de processos}--> 33
+	Ano: 1867 --{nº de processos}--> 53
+	Ano: 1868 --{nº de processos}--> 21
+	Ano: 1869 --{nº de processos}--> 38
+	Ano: 1870 --{nº de processos}--> 12
+	Ano: 1871 --{nº de processos}--> 35
+	Ano: 1872 --{nº de processos}--> 42
+	Ano: 1873 --{nº de processos}--> 45
+	Ano: 1874 --{nº de processos}--> 44
+	Ano: 1875 --{nº de processos}--> 15
+	Ano: 1876 --{nº de processos}--> 39
+	Ano: 1877 --{nº de processos}--> 46
+	Ano: 1878 --{nº de processos}--> 76
+	Ano: 1879 --{nº de processos}--> 53
+	Ano: 1880 --{nº de processos}--> 61
+	Ano: 1881 --{nº de processos}--> 62
+	Ano: 1882 --{nº de processos}--> 48
+	Ano: 1883 --{nº de processos}--> 34
+	Ano: 1884 --{nº de processos}--> 42
+	Ano: 1885 --{nº de processos}--> 8
+	Ano: 1886 --{nº de processos}--> 44
+	Ano: 1887 --{nº de processos}--> 40
+	Ano: 1888 --{nº de processos}--> 70
+	Ano: 1889 --{nº de processos}--> 65
+	Ano: 1890 --{nº de processos}--> 43
+	Ano: 1891 --{nº de processos}--> 72
+	Ano: 1892 --{nº de processos}--> 53
+	Ano: 1893 --{nº de processos}--> 77
+	Ano: 1894 --{nº de processos}--> 74
+	Ano: 1895 --{nº de processos}--> 76
+	Ano: 1896 --{nº de processos}--> 69
+	Ano: 1897 --{nº de processos}--> 68
+	Ano: 1898 --{nº de processos}--> 91
+	Ano: 1899 --{nº de processos}--> 77
+	Ano: 1900 --{nº de processos}--> 47
+	Ano: 1901 --{nº de processos}--> 58
+	Ano: 1902 --{nº de processos}--> 80
+	Ano: 1903 --{nº de processos}--> 20
+	Ano: 1904 --{nº de processos}--> 45
+	Ano: 1905 --{nº de processos}--> 42
+	Ano: 1906 --{nº de processos}--> 63
+	Ano: 1907 --{nº de processos}--> 45
+	Ano: 1908 --{nº de processos}--> 48
+	Ano: 1909 --{nº de processos}--> 39
+	Ano: 1910 --{nº de processos}--> 27
+	Ano: 1911 --{nº de processos}--> 16
+Distribuição de Nomes Próprios:
+	-> Século 17:
+		Nome: Manuel --{Frequência}--> 478
+		Nome: Joao --{Frequência}--> 467
+		Nome: Antonio --{Frequência}--> 387
+		Nome: Francisco --{Frequência}--> 323
+		Nome: Domingos --{Frequência}--> 215
+	-> Século 18:
+		Nome: Manuel --{Frequência}--> 3707
+		Nome: Joao --{Frequência}--> 2837
+		Nome: Antonio --{Frequência}--> 2720
+		Nome: Jose --{Frequência}--> 2411
+		Nome: Francisco --{Frequência}--> 1970
+	-> Século 19:
+		Nome: Jose --{Frequência}--> 2038
+		Nome: Antonio --{Frequência}--> 1782
+		Nome: Manuel --{Frequência}--> 1474
+		Nome: Joao --{Frequência}--> 1221
+		Nome: Francisco --{Frequência}--> 821
+	-> Século 20:
+		Nome: Antonio --{Frequência}--> 91
+		Nome: Manuel --{Frequência}--> 76
+		Nome: Jose --{Frequência}--> 70
+		Nome: Joao --{Frequência}--> 34
+		Nome: Francisco --{Frequência}--> 16
+Distribuição de Apelidos:
+	-> Século 17:
+		Nome: Silva --{Frequência}--> 145
+		Nome: Pereira --{Frequência}--> 128
+		Nome: Costa --{Frequência}--> 123
+		Nome: Araujo --{Frequência}--> 109
+		Nome: Carvalho --{Frequência}--> 85
+	-> Século 18:
+		Nome: Pereira --{Frequência}--> 934
+		Nome: Silva --{Frequência}--> 866
+		Nome: Costa --{Frequência}--> 745
+		Nome: Carvalho --{Frequência}--> 672
+		Nome: Araujo --{Frequência}--> 640
+	-> Século 19:
+		Nome: Pereira --{Frequência}--> 418
+		Nome: Silva --{Frequência}--> 415
+		Nome: Costa --{Frequência}--> 336
+		Nome: Sousa --{Frequência}--> 297
+		Nome: Araujo --{Frequência}--> 257
+	-> Século 20:
+		Nome: Silva --{Frequência}--> 25
+		Nome: Costa --{Frequência}--> 18
+		Nome: Oliveira --{Frequência}--> 16
+		Nome: Pereira --{Frequência}--> 14
+		Nome: Sousa --{Frequência}--> 11
+Distribuição dos Tipos de Relação:
+	Tio --{Frequência}--> 1
+	Primos Maternos --{Frequência}--> 1
+	Tio Bisavo Materno --{Frequência}--> 2
+	Parente --{Frequência}--> 2
+	Sobrinhos Netos Paternos --{Frequência}--> 2
+	Sobrinho Neto --{Frequência}--> 2
+	Tio Avo --{Frequência}--> 2
+	Sobrinho Bisneto Materno --{Frequência}--> 2
+	Sobrinho Bisneto Paterno --{Frequência}--> 3
+	Irmaos Maternos --{Frequência}--> 3
+	Irmaos Paternos --{Frequência}--> 3
+	Tio Bisavo Paterno --{Frequência}--> 4
+	Tios Paternos --{Frequência}--> 5
+	Sobrinhos Netos Maternos --{Frequência}--> 5
+	Avo Paterno --{Frequência}--> 8
+	Neto Paterno --{Frequência}--> 8
+	Primos --{Frequência}--> 11
+	Tios Maternos --{Frequência}--> 12
+	Filhos --{Frequência}--> 18
+	Neto Materno --{Frequência}--> 34
+	Avo Materno --{Frequência}--> 36
+	Irmao Materno --{Frequência}--> 36
+	Sobrinhos Paternos --{Frequência}--> 46
+	Sobrinhos Maternos --{Frequência}--> 77
+	Sobrinho Neto Paterno --{Frequência}--> 87
+	Tio Avo Paterno --{Frequência}--> 107
+	Sobrinho Neto Materno --{Frequência}--> 131
+	Tio Avo Materno --{Frequência}--> 138
+	Primo Paterno --{Frequência}--> 164
+	Primo Materno --{Frequência}--> 207
+	Filho --{Frequência}--> 273
+	Pai --{Frequência}--> 280
+	Irmao Paterno --{Frequência}--> 293
+	Irmaos --{Frequência}--> 448
+	Primo --{Frequência}--> 567
+	Sobrinho Paterno --{Frequência}--> 1458
+	Sobrinho Materno --{Frequência}--> 1487
+	Tio Materno --{Frequência}--> 1776
+	Tio Paterno --{Frequência}--> 1817
+	Irmao --{Frequência}--> 10691
